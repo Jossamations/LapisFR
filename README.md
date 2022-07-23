@@ -7,4 +7,5 @@
 Official Website: https://lapisfr.carrd.co/ 
 <br/> <br/> Supported MI Versions: **2.0 Pre-Release 3 and above.**
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> See all [Releases](https://github.com/JDButter/LapisFR/releases).
-<br/> <br/> <br/> <br/> <br/> [![discord_promos](https://user-images.githubusercontent.com/23328833/180606691-f523842e-3a52-47e7-9996-e962938a238d.png)](https://discord.gg/KkseTBdNZH)
+<br/> <br/> <br/> <br/> [![discord_promo](https://user-images.githubusercontent.com/23328833/180606726-54d8acea-7f81-4464-92b4-2fa324acae4f.png)](https://discord.gg/KkseTBdNZH)
+
