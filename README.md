@@ -6,6 +6,6 @@
 
 
 
-Official Website: https://lapisfr.carrd.co/ 
+<br/> Official Website: https://lapisfr.carrd.co/ 
 <br/> <br/> <br/> <br/> [![discord_promo](https://user-images.githubusercontent.com/23328833/180606726-54d8acea-7f81-4464-92b4-2fa324acae4f.png)](https://discord.gg/KkseTBdNZH)
 
