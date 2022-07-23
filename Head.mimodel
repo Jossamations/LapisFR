@@ -1,0 +1,19 @@
+{
+	"name": "Head",
+	"texture": "Head.png",
+	"texture_size": [ 32, 32 ],
+	"parts": [
+		{
+			"name": "Head",
+			"position": [ 0, 0, 0 ],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [ -4, 0, -4 ],
+					"to": [ 4, 8, 4 ],
+					"uv": [ 8, 8 ]
+				}
+			]
+		}
+	]
+}
