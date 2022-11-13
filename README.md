@@ -1,5 +1,5 @@
 # LapisFR
-![LapisTextLogos](https://cdn.discordapp.com/attachments/900147042167439370/1041214987286347787/textss.png)
+![LapisTextLogos](https://cdn.discordapp.com/attachments/900147042167439370/1041220506940088380/dgfextss.png)
 <br/> <br/> ![GitHub all releases](https://img.shields.io/github/downloads/jossamations/lapisfr/total?color=seagreen) 
 [![Discord](https://img.shields.io/discord/836341946511392789?color=skyblue&label=discord)](https://discord.gg/KkseTBdNZH)
 <br/> <br/> **An Open-Source Mine-Imator Facial Rig** <br/> *For the Community, by the Community.* <br/>
