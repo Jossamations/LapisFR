@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/836341946511392789?color=skyblue&label=discord)](https://discord.gg/KkseTBdNZH)
 <br/> <br/> **An Open-Source Mine-Imator Facial Rig** <br/> *For the Community, by the Community.* <br/>
 <br/> <br/> Supported MI Versions: **2.0 Pre-Release 3 and above.**
-<br/> ***See all [Releases](https://github.com/JDButter/LapisFR/releases).***
+<br/> ***See all [Releases](https://github.com/Jossamations/LapisFR/releases).***
 
 
 
