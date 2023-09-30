@@ -5,9 +5,7 @@
 ## About
 LapisFR is **an Open-Source Mine-imator Facial Rig** started by Jossamations in 2021.  <br/> *For the Community, by the Community.* <br/>
 <br/> <br/> Supported MI Versions: **2.0 Pre-Release 3 and above.** <br> <br>
-[![DOWNLOADsmallest](https://github.com/Jossamations/LapisFR/assets/23328833/96c1fc54-95d4-42a6-89ec-d911e729b36c)](https://github.com/Jossamations/LapisFR/releases)
-
-
+[![DOWNLOADsmallest](https://media.discordapp.net/attachments/900147042167439370/1157524696812752896/DOWNLOADsmallest.png)](https://github.com/Jossamations/LapisFR/releases)
 
 ## Official Links
 
