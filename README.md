@@ -9,6 +9,6 @@ LapisFR is **an Open-Source Mine-imator Facial Rig** started by Jossamations in 
 
 ## Official Links
 
-Official Website: https://lapisfr.carrd.co/ 
+Official Website: https://lapisrig.carrd.co/ 
 <br/> <br/> [![discord_promo](https://user-images.githubusercontent.com/23328833/180606726-54d8acea-7f81-4464-92b4-2fa324acae4f.png)](https://discord.gg/KkseTBdNZH)
 
