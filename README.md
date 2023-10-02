@@ -20,7 +20,7 @@ LapisFR is **an Open-Source Mine-imator Facial Rig** started by Jossamations in 
 **Importing into Mine-imator (2.0.0)**
 * In a project, navigate to the top left corner of the screen and click the "File" text, then click the second to last option; "Import asset..."
   * You can also drag and drop assets from your file explorer, which may be quicker
-* Navigate to the chosen model, select it (left click), and in the bottom right click "Open" <br> <br>
+* Navigate to the rig files, select the ".mi**object**" file (left click), and in the bottom right click "Open" <br> <br>
 
 ## Contributors
 * [Jossamations](https://twitter.com/Jossamations) *(Project management, modeling)*
